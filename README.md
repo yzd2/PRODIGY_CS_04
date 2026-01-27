@@ -7,7 +7,7 @@ The program records keyboard inputs **only after explicit user consent** and sav
 
 ---
 
-Ethical Disclaimer
+**Ethical Disclaimer**
 This project is developed **strictly for educational purposes**.  
 It does **not run silently**, does **not hide itself**, and should **only be used with full user knowledge and permission**.
 
@@ -15,7 +15,7 @@ Any misuse of keylogging techniques is unethical and illegal.
 
 ---
 
-Features
+## Features
 - Explicit user consent before logging starts
 - Logs keystrokes into a text file (`keylog.txt`)
 - Handles common keys such as:
@@ -28,7 +28,7 @@ Features
 
 ---
 
-How to Run the Project
+## How to Run the Project
 
 ### Create and activate a virtual environment (Recommended)
 ```bash
@@ -36,6 +36,8 @@ python3 -m venv venv
 source venv/bin/activate
 pip install pynput
 python3 keylogger.py
+```
+
 
 ## Usage Instructions
 Run the script.
