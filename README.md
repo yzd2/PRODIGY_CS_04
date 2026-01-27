@@ -37,27 +37,22 @@ source venv/bin/activate
 pip install pynput
 python3 keylogger.py
 
-
-
----
-
-Usage Instructions
-
+## Usage Instructions
 Run the script.
 
 Read the ethical notice displayed in the terminal.
 
-Enter Y to provide consent.
+Enter Y to provide explicit consent.
 
 Start typing — keystrokes will be logged in keylog.txt.
 
 Press Ctrl + C to safely stop the program.
 
+Conclusion
 
----
+This project provides a safe and ethical demonstration of keystroke logging concepts while maintaining transparency and explicit user consent, in alignment with cybersecurity best practices.
 
-This project provides a safe and ethical demonstration of keystroke logging concepts while maintaining transparency and user consent, aligning with cybersecurity best practices.
+Author
 
-Author: 
 Yazeed Alghamdi
 Cybersecurity Intern – ProDigy InfoTech
