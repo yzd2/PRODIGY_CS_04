@@ -7,7 +7,7 @@ The program records keyboard inputs **only after explicit user consent** and sav
 
 ---
 
-***Ethical Disclaimer***
+**Ethical Disclaimer**
 This project is developed **strictly for educational purposes**.  
 It does **not run silently**, does **not hide itself**, and should **only be used with full user knowledge and permission**.
 
