@@ -32,6 +32,7 @@ Any misuse of keylogging techniques is unethical and illegal.
 
 ### Create and activate a virtual environment (Recommended)
 ```bash
+git clone https://github.com/yzd2/PRODIGY_CS_04
 python3 -m venv venv
 source venv/bin/activate
 pip install pynput
